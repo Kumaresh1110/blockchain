@@ -1,0 +1,197 @@
+C:\Users\Kumaresh\Desktop>cd blockchain
+
+C:\Users\Kumaresh\Desktop\Blockchain>java -cp ".;gson-2.8.2.jar" Blockchain 2
+Blockchain of Kumaresh Vijayakumar is initiating...
+
+There will be a sleep time of 30 Secs...
+
+Used Text File is  BlockInput2.txt
+Main Server :  4602
+Initiate PK server at ports: 4712
+Block Chian server input thread 4932
+Unverified Block server input thread 4822
+Sending the initiating signal.....
+Sending the initiating signal.....
+Sending the initiating signal.....
+Initialising...
+For Multicasting Public key is createdMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxwC8yRl9AaFSfZ/ih+x3PKBcSr5yEmc7mcNmu2fC1SdFlG8svSnxLZJTmtCVB5qybpPrtnybZ2udQeqZjew5T+mDOirqxzlJh5RlmmootlIxTCqUtsgmBBHscx3mypzsz/lOUUUsGmLsrQpyK3qqHE0Fq9aoOAFB0krwzTH/KFQIDAQAB
+For Process ID Public Key is Obtained2
+For Process ID Public Key is Obtained0
+For Process ID Public Key is Obtained1
+Verified Block added to BlockChain Ledger
+Verified Block Count in the Ledger is: 1
+Block Queue gets  b26f79fa-824c-48ea-a418-acd9d571eb57
+
+Block Queue gets  0cb1b36a-fd86-4686-b4f0-3ccfb3888d57
+
+Block Queue gets  b796ad24-cd13-4429-965f-b6e5104526ee
+
+Block Queue gets  8e4cddd9-467d-4dda-a94c-4e5238eb3c1d
+
+Block Queue gets  0e963179-15bf-4bde-a4c6-7053b303ae2d
+
+Block Queue gets  385ae8d5-3f21-4097-8848-7b562d2468b7
+
+Block Queue gets  585ae905-0157-4d18-bbdc-2a64802689f0
+
+Block Queue gets  a2ce5076-5087-40e0-80d1-0cc2a88c6610
+
+Block Queue gets  7103d6b6-8314-490c-a061-e23765cc4395
+
+Block Queue gets  9d72f5c1-9199-4249-8521-5756df12bb56
+
+Block Queue gets  b3da1843-82d9-479d-a314-6ee0672834ee
+
+Block Queue gets  2863ea3b-8b71-426c-af4f-a8d74bfa4959
+
+Block ID Signed
+Hash Signed
+In the BlockData found the Hash Value is 908EA79B11E8A73902D162B26577AE02D7967AE60C6A4B471D518F0A7A90567C
+The list of First 16 bits in the hex and decimal format is  908E and 37006
+37006 is not the mentioned one. So,solving once again
+
+In the BlockData found the Hash Value is FE9EA73739F8B46024864A88771A37DFBA32A5D15342ECC4589B5A25C402F4E3
+The list of First 16 bits in the hex and decimal format is  FE9E and 65182
+65182 is not the mentioned one. So,solving once again
+
+In the BlockData found the Hash Value is FEF0EA5AE22FC478EC46530B7F30EB82611BBD6AC378FDEFCB273DE581E2F3BA
+The list of First 16 bits in the hex and decimal format is  FEF0 and 65264
+65264 is not the mentioned one. So,solving once again
+
+In the BlockData found the Hash Value is 5DB199599E622FC5AD03066789933434DD39DC20350B62127683627A9EDB87BF
+The list of First 16 bits in the hex and decimal format is  5DB1 and 23985
+23985 is not the mentioned one. So,solving once again
+
+In the BlockData found the Hash Value is 9ED966A4ADF62DA36E23CB2553A317F0F52BB92ECBB55F0DF3E2B4DCE517F59D
+The list of First 16 bits in the hex and decimal format is  9ED9 and 40665
+40665 is not the mentioned one. So,solving once again
+
+In the BlockData found the Hash Value is 5BEA393C59A8A74C455D135D7EBF3EE845ACE8E43B4E612E68B753BD23927609
+The list of First 16 bits in the hex and decimal format is  5BEA and 23530
+23530 is not the mentioned one. So,solving once again
+
+In the BlockData found the Hash Value is CB8884ECC14DECCD8E3F840C01366BD16EC30533639E181E18253D8F342E1E38
+The list of First 16 bits in the hex and decimal format is  CB88 and 52104
+52104 is not the mentioned one. So,solving once again
+
+In the BlockData found the Hash Value is CF9F312DA299B062ECCDF81F83DE2EEDC9917B88EECD59B70FB9205AB2873321
+The list of First 16 bits in the hex and decimal format is  CF9F and 53151
+53151 is not the mentioned one. So,solving once again
+
+In the BlockData found the Hash Value is 2332F27199C8041CC21F2BDA19A07C4F79ED1DF2715DF9E26E55FBADC20D7D10
+The list of First 16 bits in the hex and decimal format is  2332 and 9010
+9010 is less than the mentioned which is less than 20,000.Hence the Puzzle is solved!!
+ Final random seed String which is the Winning one is : 9WD5WRBR
+All the Blocks are adding to the newly created Blochain Ledger.
+Verified blocks are : 2
+Block is being verified and sent b796ad24-cd13-4429-965f-b6e5104526ee
+Block is being verified and sent b796ad24-cd13-4429-965f-b6e5104526ee
+Block is being verified and sent b796ad24-cd13-4429-965f-b6e5104526ee
+In the BlockData found the Hash Value is 1E6B46CA53B44571100605EA5E382AAB5B6EFBE9DC35FB84D3670A9C99586829
+The list of First 16 bits in the hex and decimal format is  1E6B and 7787
+Reading..
+Block ID Signed
+Hash Signed
+In the BlockData found the Hash Value is 078E78D066AA98DFDDB9E1604D0DD60D350580B472D42765D673835F365F2129
+The list of First 16 bits in the hex and decimal format is  078E and 1934
+1934 is less than the mentioned which is less than 20,000.Hence the Puzzle is solved!!
+ Final random seed String which is the Winning one is : VQ2KIF6J
+All the Blocks are adding to the newly created Blochain Ledger.
+Verified blocks are : 3
+Block is being verified and sent 0e963179-15bf-4bde-a4c6-7053b303ae2d
+Block is being verified and sent 0e963179-15bf-4bde-a4c6-7053b303ae2d
+Block is being verified and sent 0e963179-15bf-4bde-a4c6-7053b303ae2d
+In the BlockData found the Hash Value is 347C313D3037DA05684C4A8D51A0214CC0452E65A5BD6963751DD85FC08017B8
+The list of First 16 bits in the hex and decimal format is  347C and 13436
+Reading..
+Block ID Signed
+Hash Signed
+In the BlockData found the Hash Value is 2ED11B5B48D319D41CD381070E166D81F5E0638B50B088A201D5621C7DF5D6CF
+The list of First 16 bits in the hex and decimal format is  2ED1 and 11985
+11985 is less than the mentioned which is less than 20,000.Hence the Puzzle is solved!!
+ Final random seed String which is the Winning one is : XFH0K0YK
+All the Blocks are adding to the newly created Blochain Ledger.
+Verified blocks are : 4
+Block is being verified and sent 7103d6b6-8314-490c-a061-e23765cc4395
+Block is being verified and sent 7103d6b6-8314-490c-a061-e23765cc4395
+Block is being verified and sent 7103d6b6-8314-490c-a061-e23765cc4395
+In the BlockData found the Hash Value is 38E849195B073CF2F5489AF9E55A4B9D72BB9FF55490A3702129B3EE419519C7
+The list of First 16 bits in the hex and decimal format is  38E8 and 14568
+Reading..
+Block ID Signed
+Hash Signed
+In the BlockData found the Hash Value is 5761B1A83BCCAEA71BF3BF7559C97AC689B821292C98CE3AF5A1C64B67E99EAE
+The list of First 16 bits in the hex and decimal format is  5761 and 22369
+22369 is not the mentioned one. So,solving once again
+
+In the BlockData found the Hash Value is 6A3B048B81F74BD8C23433C6257AD9570C3F4BC3183252334C7B25F9D75A1DC8
+The list of First 16 bits in the hex and decimal format is  6A3B and 27195
+27195 is not the mentioned one. So,solving once again
+
+Verified Block added to BlockChain Ledger
+Verified Block Count in the Ledger is: 5
+In the BlockData found the Hash Value is 97E932D0F1FF50AEF0574BF916F4A93AD20AAA957AC4258815F728538633C96D
+The list of First 16 bits in the hex and decimal format is  97E9 and 38889
+38889 is not the mentioned one. So,solving once again
+
+Block ID Signed
+Hash Signed
+In the BlockData found the Hash Value is 8CC983E69DBE4D958011E8C62532C03C50B3F2F44C3741C49E57AE53722F028B
+The list of First 16 bits in the hex and decimal format is  8CC9 and 36041
+36041 is not the mentioned one. So,solving once again
+
+Verified Block added to BlockChain Ledger
+Verified Block Count in the Ledger is: 6
+In the BlockData found the Hash Value is 65C08613CD10798069500A3E8B496127E43487CC4CAFE85A77B97AA25F685D92
+The list of First 16 bits in the hex and decimal format is  65C0 and 26048
+26048 is not the mentioned one. So,solving once again
+
+Block ID Signed
+Hash Signed
+In the BlockData found the Hash Value is AED6F8EDBE89CDB38186C984514F1783E5480F4963E62B85536CF486409A1A06
+The list of First 16 bits in the hex and decimal format is  AED6 and 44758
+44758 is not the mentioned one. So,solving once again
+
+In the BlockData found the Hash Value is 98F7BD24D07F903A92ADD729183E0B4112EA43AA1325EF935A5E800D6E0FCE13
+The list of First 16 bits in the hex and decimal format is  98F7 and 39159
+39159 is not the mentioned one. So,solving once again
+
+Verified Block added to BlockChain Ledger
+Verified Block Count in the Ledger is: 7
+Verified Block added to BlockChain Ledger
+Verified Block Count in the Ledger is: 8
+In the BlockData found the Hash Value is 04E12C5B4CB4DF9EA0BE07B382401B2F14041757530D1F9B95018EBECC360669
+The list of First 16 bits in the hex and decimal format is  04E1 and 1249
+Reading..
+Block ID Signed
+Hash Signed
+In the BlockData found the Hash Value is FC76AD3BAAB93D109C03835D9EF940D477A7EB5774032B1AE106E323EB6CE0D0
+The list of First 16 bits in the hex and decimal format is  FC76 and 64630
+64630 is not the mentioned one. So,solving once again
+
+Verified Block added to BlockChain Ledger
+Verified Block Count in the Ledger is: 9
+In the BlockData found the Hash Value is 3AF2E10E89374BF4C090A3B28E88DAC954A0A22ACE7377FAC59752FB12F42F58
+The list of First 16 bits in the hex and decimal format is  3AF2 and 15090
+Reading..
+Block ID Signed
+Hash Signed
+In the BlockData found the Hash Value is 754001EB7DCFBEB138E7B1DAB0DED0DE10A485C3501E753DB54CA500B26ED736
+The list of First 16 bits in the hex and decimal format is  7540 and 30016
+30016 is not the mentioned one. So,solving once again
+
+Verified Block added to BlockChain Ledger
+Verified Block Count in the Ledger is: 10
+Verified Block added to BlockChain Ledger
+Verified Block Count in the Ledger is: 11
+Verified Block added to BlockChain Ledger
+Verified Block Count in the Ledger is: 12
+Verified Block added to BlockChain Ledger
+Verified Block Count in the Ledger is: 13
+In the BlockData found the Hash Value is 525A06B16948A1E74DC1279DE851F997C5BBA59CAE2E511A7BD4BC373F4F5B6E
+The list of First 16 bits in the hex and decimal format is  525A and 21082
+21082 is not the mentioned one. So,solving once again
+
+********************************************************************************************
+Ledger of Blockchain in the name of 'BlockchainLedger' is created and the format will be JSON
+********************************************************************************************
